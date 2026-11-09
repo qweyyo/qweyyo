@@ -1,16 +1,49 @@
-## Hi there 👋
+# Привіт! Я — Нікіта Шляк (`qweyyo`) 👋
 
-<!--
-**qweyyo/qweyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Початківець у напрямку Web Development (WordPress) & Technical SEO**
 
-Here are some ideas to get you started:
+Я створюю сучасні сайти на базі WordPress та Elementor, налаштовую хостинг і вивчаю методи пошукової оптимізації (SEO), щоб допомагати проєктам залучати трафік та рости в інтернеті.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Мої навички та технології
+*   **Створення сайтів та CMS:** WordPress, Elementor (адаптивна верстка, налаштування тем та плагінів), базові знання HTML5 та CSS3
+*   **Хостинг та адміністрування:** Перенесення сайтів на хостинг, прив'язка доменів, налаштування SSL-сертифікатів, базове прискорення та кешування
+*   **SEO та Аналітика (вивчаю):** Google Search Console, Google Analytics 4, SEO-плагіни (Yoast SEO / Rank Math), технічний аудит, `robots.txt`, `sitemap.xml`
+*   **Інструменти:** Git, GitHub, AI-інструменти для генерації контенту та автоматизації задач
+
+---
+
+### 📂 Моє портфоліо та проєкти
+
+#### 1. MIYAGI DO SUSHI
+*   **Технології:** WordPress, Elementor, налаштування хостингу та SSL.
+*   **Опис:** Сучасний адаптивний сайт, зібраний на конструкторі Elementor з оптимізацією під мобільні пристрої та розміщений на хостингу.
+*   **Скриншот проєкту:**
+
+<img width="1920" height="6175" alt="screencapture-test2-madison-doves-2026-03-15-17_13_24 (2)" src="https://github.com/user-attachments/assets/7b60c3cb-4a1d-46dd-acc7-b4d49bc95e9d" />
+
+
+---
+
+#### 2. Barbershop
+*   **Технології:** WordPress, Elementor, базова SEO-оптимізація структури.
+*   **Опис:** Налаштована навігація, форми зворотного зв'язку, базові метатеги та висока швидкість завантаження сторінок.
+*   **Скриншот проєкту:**
+
+<img width="1920" height="7377" alt="image" src="https://github.com/user-attachments/assets/03b87cec-477e-4190-aad3-8c2e977c2a6b" />
+
+
+---
+
+### 🎯 Поточні цілі
+*   Поглибити знання з технічного SEO для сайтів на WordPress та оптимізації показників Core Web Vitals.
+*   Опанувати Python для автоматизації збору семантики та парсингу даних.
+*   Підготувати базу для стажування на позицію **Junior Technical SEO / WordPress Developer**.
+
+---
+
+### 📫 Як зі мною зв'язатися
+*   **GitHub:** [://github.com](https://://github.com)
+*   **Telegram:** [@tre1user] (https://t.me)
+*   **Email:** nikitaslj52@gmail.com
